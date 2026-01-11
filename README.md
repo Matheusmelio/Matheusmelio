@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Matheus Oliveira and I'm a from Brazil. Welcome to my Git</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="center">Hi 👋! My name is Matheus Oliveira and I'm a from Brazil. Welcome to my Git</h2>
 
 ###
 
@@ -44,18 +50,16 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusmelio/Matheusmelio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusmelio/Matheusmelio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheusmelio/Matheusmelio/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <a href="https://open.spotify.com/user/Matheus](https://spotify-recently-played-readme.vercel.app/api?user=31b7twuaqimnkotkurndcyyc2gta">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Matheus&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusmelio&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
