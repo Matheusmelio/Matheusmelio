@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRjamkzYmJrNWhlOHFzb2xrcTcwb2lrajV1dHRuanR6bDNsaGZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/41TVatt7x3unYy6u3I/giphy.gif"  />
+<img align="right" height="115" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRjamkzYmJrNWhlOHFzb2xrcTcwb2lrajV1dHRuanR6bDNsaGZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/41TVatt7x3unYy6u3I/giphy.gif"  />
 
 ###
 
@@ -45,14 +45,6 @@
   </a>
   <a href="www.linkedin.com/in/matheus-oliveira-440400289" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Matheus](https://spotify-recently-played-readme.vercel.app/api?user=31b7twuaqimnkotkurndcyyc2gta">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Matheus&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
